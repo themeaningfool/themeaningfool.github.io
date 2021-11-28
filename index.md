@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Meaningfool
 
 You can use the [editor on GitHub](https://github.com/themeaningfool/themeaningfool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
